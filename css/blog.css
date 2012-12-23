@@ -101,7 +101,7 @@
 	border: none;
 }
 #blog_wrapper .post .info a {	
-	color: #87a46e;
+	color: #4176a4;
 }
 #blog_wrapper .post .info h3 {
 	margin-top: 15px;
@@ -150,7 +150,7 @@
 	color: #333;	
 }
 #blog_wrapper .sidebar .sidebar_menu li a:hover {
-	color: #87a46e;
+	color: #4176a4;
 	text-decoration: underline;
 }
 #blog_wrapper .sidebar .recent_posts {
@@ -172,7 +172,7 @@
 	margin-top: 10px;
 }
 #blog_wrapper .sidebar .recent_posts a:hover {
-	color: #87a46e;
+	color: #4176a4;
 	text-decoration: underline;
 }
 
